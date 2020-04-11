@@ -1,4 +1,4 @@
-# pattern_recognition_on_biomedical_data
+# Pattern-Recognition-on-Biomedical-Data
 
 Master Thesis - Abstract
 
